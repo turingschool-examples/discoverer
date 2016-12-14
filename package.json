@@ -1,0 +1,20 @@
+{
+  "name": "discoverer",
+  "version": "1.0.0",
+  "description": "A playground for learning search and pathfinding algorithms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turingschool-examples/discoverer.git"
+  },
+  "keywords": [],
+  "author": "Steve Kinney <hello@stevekinney.net> (http://stevekinney.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turingschool-examples/discoverer/issues"
+  },
+  "homepage": "https://github.com/turingschool-examples/discoverer#readme"
+}
